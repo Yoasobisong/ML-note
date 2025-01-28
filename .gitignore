@@ -23,7 +23,7 @@
    .vscode/
    .idea/
 
-   # Crossnote files
+   # Crossnote configuration files
    .crossnote/
 
    # readme
