@@ -2,14 +2,21 @@
 
 ## 1.prepare
 
-- [x] Prework
+- [x] Prework of python
   - [x] Numpy
   - [x] pandas
+  - [ ] Matplotlib / Seaborn
+  - [ ] tensor and tensor rank
+        - [x] Basic Tensor
+        - [x] Variables 
+        - [ ] after completing the basics of ml, back to learn Introduction to gradients and automatic differentiatio
+  - [ ] pytorch
 - Prerequisites
   - [x] Algebra
   - [ ] Linear algebra
-    - [ ] tensor and tensor rank
+  - [ ] Probability & Statistics
     - [ ] matrix multiplication
   - [ ] Trigonometry
   - [ ] Statistics
   ***
+---
