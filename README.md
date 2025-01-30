@@ -1,5 +1,6 @@
 # ML-note
 
+
 ## 1.prepare
 
 - [x] Prework of python
@@ -9,7 +10,7 @@
   - [ ] tensor and tensor rank
     - [x] Basic Tensor
     - [x] Variables
-    - [ ] after completing the basics of ml, back to learn Introduction to gradients and automatic differentiatio
+    - [ ] after completing the basics of ml, back to learn Introduction to gradients and automatic differentiation
   - [ ] pytorch
 - Prerequisites theory
   - [x] Algebra
@@ -23,17 +24,21 @@
     - [ ] Probability distribution (Gaussian distribution, Bernoulli distribution)
     - [ ] Maximum Likelihood Estimation (MLE), Bayes' theorem
     - [ ] [course]()
-  - [ ] Statistics
-    - [ ]
+  - [ ] Data statistics
+    - [ ] [github_document](https://github.com/fengdu78/Data-Science-Notes.git)
 - ML
   - [ ] [Andrew Ng's course 2014](https://www.bilibili.com/video/BV1W34y1i7xK?vd_source=4b25f608d61dc70023e6d2461cc1fe4f&p=2&spm_id_from=333.788.videopod.episodes)
-  - [ ] [standfox's note](http://www.ai-start.com/ml2014/)
-  - [ ] [Andrew Ng's course 2025](https://www.bilibili.com/video/BV1Bq421A74G/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=4b25f608d61dc70023e6d2461cc1fe4f)
+  - [ ] [stanford's note](http://www.ai-start.com/ml2014/)
+  - [ ] [Andrew Ng's course 2024](https://www.bilibili.com/video/BV1Bq421A74G/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=4b25f608d61dc70023e6d2461cc1fe4f)
   - [ ] [google course](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework)
-  - [ ] [github_information](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes.git)
+  - [ ] [github_documet](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes.git)
 - DL
   ***
   - [ ] [Andrew Ng's course](https://www.bilibili.com/video/BV16r4y1Y7jv/?vd_source=4b25f608d61dc70023e6d2461cc1fe4f)
-  -
+  - [ ] [stanford's note]()
 
 ---
+# Reference
+>fengdu78, Data-Science-Notes, (2019), GitHub repository, https://github.com/fengdu78/Data-Science-Notes
+>fengdu78, Coursera-ML-AndrewNg-Notes, (2014), GitHub repository, https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
+>fengdu78, deeplearning_ai_books, (2014), GitHub repository, https://github.com/fengdu78/deeplearning_ai_books
