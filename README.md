@@ -5,7 +5,8 @@
 - [x] Prework of python
   - [x] Numpy
   - [x] pandas
-  - [ ] Matplotlib / Seaborn
+  - [x] Matplotlib
+  - [ ] Seaborn
   - [ ] tensor and tensor rank
     - [x] Basic Tensor
     - [x] Variables
@@ -34,6 +35,7 @@
 
 - ML
   - [ ] [Andrew Ng's course 2014](https://www.bilibili.com/video/BV1W34y1i7xK?vd_source=4b25f608d61dc70023e6d2461cc1fe4f&p=2&spm_id_from=333.788.videopod.episodes)
+    - [x] progress: cha3
   - [ ] [stanford's note](http://www.ai-start.com/ml2014)
   ***
   - [ ] [Andrew Ng's course 2024](https://www.bilibili.com/video/BV1Bq421A74G/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=4b25f608d61dc70023e6d2461cc1fe4f)
